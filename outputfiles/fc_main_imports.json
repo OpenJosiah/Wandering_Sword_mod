@@ -1,0 +1,1302 @@
+{
+  "JHGEExtAct_SpwnAbilityPawnAndActivateOnce": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_SpwnAbilityPawnAndActivateOnce",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_SpwnAbilityPawnAndActivateOnce",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_SpwnAbilityPawnAndActivateOnce",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ActionCountMax": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ActionCountMax",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ActionCountMax",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ActionCountMax",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_WeaponType": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_WeaponType",
+      "OuterIndex": -30,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_WeaponType",
+      "OuterIndex": -30,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_WeaponType",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_OnRemovedBuffId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_OnRemovedBuffId",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_OnRemovedBuffId",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_OnRemovedBuffId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdRelOtherGE": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdRelOtherGE",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdRelOtherGE",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdRelOtherGE",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_AroundTeamCount_M_Percent": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_AroundTeamCount_M_Percent",
+      "OuterIndex": -37,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_AroundTeamCount_M_Percent",
+      "OuterIndex": -37,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_AroundTeamCount_M_Percent",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_HasPawnInRange": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_HasPawnInRange",
+      "OuterIndex": -25,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_HasPawnInRange",
+      "OuterIndex": -25,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_HasPawnInRange",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_IsInRange": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_IsInRange",
+      "OuterIndex": -26,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_IsInRange",
+      "OuterIndex": -26,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_IsInRange",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_Dist": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_Dist",
+      "OuterIndex": -29,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_Dist",
+      "OuterIndex": -29,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_Dist",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_CalcPassivePhases": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_CalcPassivePhases",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_CalcPassivePhases",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_CalcPassivePhases",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityCDType": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityCDType",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityCDType",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityCDType",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_BeDamageValue": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_BeDamageValue",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_BeDamageValue",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_BeDamageValue",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_NoEffectId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_NoEffectId",
+      "OuterIndex": -21,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_NoEffectId",
+      "OuterIndex": -21,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_NoEffectId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdRandomRelGridRange": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdRandomRelGridRange",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdRandomRelGridRange",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdRandomRelGridRange",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_ClearDamage": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_ClearDamage",
+      "OuterIndex": -28,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_ClearDamage",
+      "OuterIndex": -28,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_ClearDamage",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityIgnoreTag": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityIgnoreTag",
+      "OuterIndex": -21,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityIgnoreTag",
+      "OuterIndex": -21,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityIgnoreTag",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ChangeGEDurationWithIds": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ChangeGEDurationWithIds",
+      "OuterIndex": -30,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ChangeGEDurationWithIds",
+      "OuterIndex": -30,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ChangeGEDurationWithIds",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_Chance": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_Chance",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_Chance",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_Chance",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_EffectIdInPostApplyToSelf": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_EffectIdInPostApplyToSelf",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_EffectIdInPostApplyToSelf",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_EffectIdInPostApplyToSelf",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_HasTwoEquips": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_HasTwoEquips",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_HasTwoEquips",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_HasTwoEquips",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_Attr": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_Attr",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_Attr",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_Attr",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_Dist_N2F": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_Dist_N2F",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_Dist_N2F",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_Dist_N2F",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_IsAlive": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_IsAlive",
+      "OuterIndex": -29,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_IsAlive",
+      "OuterIndex": -29,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_IsAlive",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_EffectIdInPostApplyToSelf_HasTag": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_EffectIdInPostApplyToSelf_HasTag",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_EffectIdInPostApplyToSelf_HasTag",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_EffectIdInPostApplyToSelf_HasTag",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_BuffCount_With_Tag": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_BuffCount_With_Tag",
+      "OuterIndex": -24,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_BuffCount_With_Tag",
+      "OuterIndex": -24,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_BuffCount_With_Tag",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ModifyPhases": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ModifyPhases",
+      "OuterIndex": -37,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ModifyPhases",
+      "OuterIndex": -37,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ModifyPhases",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdRelChance": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdRelChance",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdRelChance",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdRelChance",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_CalcPhases": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_CalcPhases",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_CalcPhases",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_CalcPhases",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_GridDist": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_GridDist",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_GridDist",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_GridDist",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_IFThenElse": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_IFThenElse",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_IFThenElse",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_IFThenElse",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_Attribute": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_Attribute",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_Attribute",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_Attribute",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActorTag": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActorTag",
+      "OuterIndex": -28,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActorTag",
+      "OuterIndex": -28,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActorTag",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityOrTag": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityOrTag",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityOrTag",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityOrTag",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdWithDist": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdWithDist",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdWithDist",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdWithDist",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ChangeAbilityCD": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ChangeAbilityCD",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ChangeAbilityCD",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ChangeAbilityCD",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_NotActivedAbilityClass": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_NotActivedAbilityClass",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_NotActivedAbilityClass",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_NotActivedAbilityClass",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ChanceArray": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ChanceArray",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ChanceArray",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ChanceArray",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_GiveAbilityAndActivateOnce": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_GiveAbilityAndActivateOnce",
+      "OuterIndex": -25,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_GiveAbilityAndActivateOnce",
+      "OuterIndex": -25,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_GiveAbilityAndActivateOnce",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ShowSpecialDamageImage": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ShowSpecialDamageImage",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ShowSpecialDamageImage",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ShowSpecialDamageImage",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityClass": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityClass",
+      "OuterIndex": -40,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityClass",
+      "OuterIndex": -40,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityClass",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityTag": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityTag",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityTag",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityTag",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_Meridian": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_Meridian",
+      "OuterIndex": -33,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_Meridian",
+      "OuterIndex": -33,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_Meridian",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_MeridianStack": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_MeridianStack",
+      "OuterIndex": -33,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_MeridianStack",
+      "OuterIndex": -33,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_MeridianStack",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_OrArray": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_OrArray",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_OrArray",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_OrArray",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_RemoveEffectId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_RemoveEffectId",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_RemoveEffectId",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_RemoveEffectId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdRelGridRange": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdRelGridRange",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdRelGridRange",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdRelGridRange",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectId",
+      "OuterIndex": -15,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectId",
+      "OuterIndex": -15,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityIdInCurrentTurn": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityIdInCurrentTurn",
+      "OuterIndex": -26,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityIdInCurrentTurn",
+      "OuterIndex": -26,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityIdInCurrentTurn",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdRelAttribute": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdRelAttribute",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdRelAttribute",
+      "OuterIndex": -23,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdRelAttribute",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_AroundTeamCount_M_Percent_Range": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_AroundTeamCount_M_Percent_Range",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_AroundTeamCount_M_Percent_Range",
+      "OuterIndex": -18,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_AroundTeamCount_M_Percent_Range",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Damage": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Damage",
+      "OuterIndex": -28,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Damage",
+      "OuterIndex": -28,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Damage",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdRelTags": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdRelTags",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdRelTags",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdRelTags",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ModifyPassivePhases": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ModifyPassivePhases",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ModifyPassivePhases",
+      "OuterIndex": -19,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ModifyPassivePhases",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_RemoveEffectWithTags": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_RemoveEffectWithTags",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_RemoveEffectWithTags",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_RemoveEffectWithTags",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_NotActivedAbilityId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_NotActivedAbilityId",
+      "OuterIndex": -46,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_NotActivedAbilityId",
+      "OuterIndex": -46,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_NotActivedAbilityId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedEffectId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedEffectId",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedEffectId",
+      "OuterIndex": -16,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedEffectId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffectIdByNPCNum": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffectIdByNPCNum",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffectIdByNPCNum",
+      "OuterIndex": -14,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffectIdByNPCNum",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_RemoveEffect_PostToSelf": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_RemoveEffect_PostToSelf",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_RemoveEffect_PostToSelf",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_RemoveEffect_PostToSelf",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_ActivedAbilityId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_ActivedAbilityId",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_ActivedAbilityId",
+      "OuterIndex": -17,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_ActivedAbilityId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_AbilityId": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_AbilityId",
+      "OuterIndex": -21,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_AbilityId",
+      "OuterIndex": -21,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_AbilityId",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_BuffStack": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_BuffStack",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_BuffStack",
+      "OuterIndex": -20,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_BuffStack",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtAct_ApplyEffect_PostToSelf_Reflect": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtAct_ApplyEffect_PostToSelf_Reflect",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtAct_ApplyEffect_PostToSelf_Reflect",
+      "OuterIndex": -22,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtAct_ApplyEffect_PostToSelf_Reflect",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHGEExtReq_AndArray": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHGEExtReq_AndArray",
+      "OuterIndex": -29,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHGEExtReq_AndArray",
+      "OuterIndex": -29,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHGEExtReq_AndArray",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "JHExecutionPhase_Percent_M_BuffStack_M_Attr": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "JHExecutionPhase_Percent_M_BuffStack_M_Attr",
+      "OuterIndex": -40,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__JHExecutionPhase_Percent_M_BuffStack_M_Attr",
+      "OuterIndex": -40,
+      "ClassPackage": "/Script/JH",
+      "ClassName": "JHExecutionPhase_Percent_M_BuffStack_M_Attr",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ]
+}
