@@ -6,8 +6,8 @@
 import json, argparse, sys
 
 # 默认路径（可直接双击/运行用）
-DEFAULT_SRC = r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Tables\Fusions.json"
-DEFAULT_DST = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH\Tables\Fusions.json"
+DEFAULT_SRC = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_RenSheng\GE_RenSheng_BD.json"
+DEFAULT_DST = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Skills\CS_D_ShuangFengDao\GE_CS_D_ShuangFengDao_BD.json"
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:

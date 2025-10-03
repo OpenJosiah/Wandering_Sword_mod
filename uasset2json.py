@@ -21,15 +21,15 @@ USMAP = Path(r"D:\Unreal_tools\Mappings.usmap")
 # MODE = "all"    # 遍历文件夹及其子文件夹（含可选副文件夹）
 # MODE = "single" # 只处理单一文件
 MODE = "all"
-SKIP_POLICY = "exists"   # "exists"：跳过已有json | "mtime"：uasset文件新于json时重跑 | "none"：全部重跑
+SKIP_POLICY = "none"   # "exists"：跳过已有json | "mtime"：uasset文件新于json时重跑 | "none"：全部重跑
 
 # 主目录（MODE=all 时生效）
-ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Skills")
+ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH\Tables")
 # MODE=single 时生效（允许不带 .uasset 后缀）
-SINGLE_UASSET = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Tables\Buffs.uasset")
+SINGLE_UASSET = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Skills\CS_D_ShuangFengDao\GE_CS_D_ShuangFengDao_BD.uasset")
 
 # 副文件夹（可选）
-SUB_ENABLED = True
+SUB_ENABLED = False
 SUB_DIRS = [
     Path(r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Core"),
     Path(r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Skills"),

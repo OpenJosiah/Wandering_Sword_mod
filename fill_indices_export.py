@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 功能：
-1) 规范 Name 序号：把三类结构与 JHExtendSettings内部的 Name 顺序重排为 "0","1","2"...（始终在最前执行）。
-2) export[1] 用到的索引写进最后的引用[]
+1) 规范 Name 序号：把三类结构、BuffIds与 JHExtendSettings内部的 Name 顺序重排为 "0","1","2"...（始终在最前执行）。
+2) export[1] 用到的索引写进最后的引用CBSD[]
 3) 从 export[2] 起，扫描三类引用结构（ExecutionPhases / If_Req|Then_Act|Else_Act / Requirements）得到：
    - 函数内部引用序号
    - 函数被引用序号
@@ -23,9 +23,22 @@ from typing import Any, Dict, List, Set, DefaultDict, Tuple, Optional
 from collections import defaultdict
 
 # ======== 路径与输出策略 ========
-INPUT_JSON = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_ZhenXiang\GE_ZhenXiang_BD.json"
+INPUT_JSON = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_RenSheng\GE_RenSheng_BD.json"
 REPLACE_SOURCE = True   # True: 覆盖源文件；False: 写到 OUTPUT_DIR
 OUTPUT_DIR = r"D:\\Python\\pythonProject1\\Files\\yijian_mod_creat\\outputfiles"
+# ===============================
+
+# ======== 目录扫描（默认关闭） ========
+SCAN_RECURSIVE = False  # True 时递归目录及子目录；False 只扫单文件
+INPUT_DIRS = [
+    r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng",
+]
+# ===============================
+
+# ======== 文件名前缀过滤 ========
+# 仅处理文件名以这些前缀之一开头的 .json；留空元组 () 表示不过滤
+PREFIX_CASE_SENSITIVE = True # True时区分前缀大小写，False时不区分
+FILENAME_PREFIXES: Tuple[str, ...] = ("GE")  # 例：("GE",) 或 ("GE","JH")；() 表示全部允许
 # ===============================
 
 # ======== 索引平移（默认关闭） ========
@@ -52,6 +65,57 @@ def dump_json(obj: Dict[str, Any], path: str) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
+
+def _has_allowed_prefix(path: str) -> bool:
+    if not FILENAME_PREFIXES:
+        return True
+    name = os.path.basename(path)
+    if PREFIX_CASE_SENSITIVE:
+        return any(name.startswith(p) for p in FILENAME_PREFIXES)
+    else:
+        lower = name.lower()
+        return any(lower.startswith(p.lower()) for p in FILENAME_PREFIXES)
+
+def _gather_input_files(file_path: str, dir_paths: List[str], recursive: bool) -> List[str]:
+    """
+    新语义：
+      - recursive == False -> 仅处理 file_path（必须为 .json 且满足前缀）
+      - recursive == True  -> 忽略 file_path，递归处理 dir_paths 中的所有目录（.json 且满足前缀）
+    """
+    out: List[str] = []
+    seen = set()
+
+    if not recursive:
+        # 只跑单文件
+        if os.path.isfile(file_path) and file_path.lower().endswith(".json"):
+            if _has_allowed_prefix(file_path):
+                out.append(file_path)
+            else:
+                WARNINGS.append(f"[过滤] 文件名不匹配前缀 {FILENAME_PREFIXES}: {file_path}")
+        else:
+            WARNINGS.append(f"[输入] 单文件无效或不是 .json：{file_path}")
+        return out
+
+    # recursive == True：只跑目录（含子目录）
+    if not dir_paths:
+        WARNINGS.append("[输入] SCAN_RECURSIVE=True 但 INPUT_DIRS 为空，未找到可扫描目录。")
+        return out
+
+    for d in dir_paths:
+        if not os.path.isdir(d):
+            WARNINGS.append(f"[输入] 目录不存在：{d}")
+            continue
+        for root, _, files in os.walk(d):
+            for fn in files:
+                if not fn.lower().endswith(".json"):
+                    continue
+                full = os.path.abspath(os.path.join(root, fn))
+                if not _has_allowed_prefix(full):
+                    # 不符合前缀过滤，跳过但不报错
+                    continue
+                if full not in seen:
+                    out.append(full); seen.add(full)
+    return out
 
 def is_positive_int_no_bool(x: Any) -> bool:
     return isinstance(x, int) and not isinstance(x, bool) and x > 0
@@ -156,6 +220,39 @@ def _renumber_in_three_structs(exports: List[Any], start_idx: int = 1) -> Tuple[
                 continue
             arrs += 1
             changed += _renumber_object_array_names(entry)
+    return arrs, changed
+
+def _renumber_buffids_anywhere(exports: List[Any]) -> Tuple[int, int]:
+    """
+    在所有 Exports[*].Data[*] 中查找：
+      ArrayPropertyData(ArrayType="IntProperty", Name="BuffIds")
+    将其 Value 数组内各 IntPropertyData 的 Name 重排为 "0","1","2",...
+    返回：(被处理数组个数, 改名条数)
+    """
+    arrs = 0
+    changed = 0
+    for exp in exports:
+        data = exp.get("Data", [])
+        if not isinstance(data, list):
+            continue
+        for entry in data:
+            if not (isinstance(entry, dict)
+                    and isinstance(entry.get("$type", ""), str)
+                    and entry.get("$type").endswith("ArrayPropertyData, UAssetAPI")
+                    and entry.get("ArrayType") == "IntProperty"
+                    and entry.get("Name") == "BuffIds"):
+                continue
+            vals = entry.get("Value")
+            if not isinstance(vals, list):
+                continue
+            arrs += 1
+            for i, intp in enumerate(vals):
+                if isinstance(intp, dict):
+                    old = intp.get("Name")
+                    new = str(i)
+                    if old != new:
+                        intp["Name"] = new
+                        changed += 1
     return arrs, changed
 
 # ---------- 平移工具 ----------
@@ -384,6 +481,8 @@ def process(doc: Dict[str, Any]) -> Tuple[List[str], List[str]]:
     jh_cnt, jh_changes = _renumber_in_jhextend(exports[1])
     tri_cnt, tri_changes = _renumber_in_three_structs(exports, start_idx=1)
     lines.append(f"[重排] 规范 Name 序号：JHExtendSettings 数组数={jh_cnt}，改名={jh_changes}；三类结构数组数={tri_cnt}，改名={tri_changes}")
+    buf_cnt, buf_changes = _renumber_buffids_anywhere(exports)
+    lines.append(f"[重排] BuffIds 数组数={buf_cnt}，改名={buf_changes}")
 
     # === 1) 可选：索引平移阶段（在重排之后、其他逻辑之前） ===
     if ENABLE_SHIFT and SHIFT_POSITIONS:
@@ -584,57 +683,73 @@ def _maybe_write_full_report(all_lines: List[str], out_dir: str) -> str:
         return ""
 
 def main():
-    doc = load_json(INPUT_JSON)
-    lines, backfills = process(doc)
+    inputs = _gather_input_files(INPUT_JSON, INPUT_DIRS, SCAN_RECURSIVE)
+    if not inputs:
+        print(f"[错误] 未找到可处理的 JSON。"
+              f"{'请检查 INPUT_DIRS（递归目录模式）' if SCAN_RECURSIVE else '请检查 INPUT_JSON（单文件模式）'}")
+        return
 
-    # 预组合完整报告文本（用于可选落盘；格式与打印一致）
-    full_report = []
-    full_report.append("=== 处理报告 ===")
-    full_report.extend(lines)
-    if backfills:
-        full_report.append(f"[回填统计] 共 {len(backfills)} 个")
-        full_report.extend(backfills)
+    total_files = len(inputs)
+    print(f"[提示] 模式={'目录递归' if SCAN_RECURSIVE else '单文件'}，本次处理 {total_files} 个文件。")
 
-    # 控制台打印（与 full_report 同格式）
-    print("=== 处理报告 ===")
-    for ln in lines:
-        print(ln)
+    for i, in_path in enumerate(inputs, 1):
+        WARNINGS.clear()  # 每个文件独立告警
+        print("\n" + "=" * 80)
+        print(f"[{i}/{total_files}] 处理：{in_path}")
 
-    if backfills:
-        print(f"[回填统计] 共 {len(backfills)} 个（仅显示前 5 个）")
-        preview = backfills[:5]
-        for blk in preview:
-            print(blk)
-    else:
-        print("[回填统计] 0 个")
+        doc = load_json(in_path)
+        lines, backfills = process(doc)
 
-    # 新增：警告汇总
-    print("\n=== 警告汇总 ===")
-    if WARNINGS:
-        for w in WARNINGS:
-            print(w)
-    else:
-        print("无警告")
+        # 预组合完整报告文本（用于可选落盘；格式与打印一致）
+        full_report = []
+        full_report.append("=== 处理报告 ===")
+        full_report.extend(lines)
+        if backfills:
+            full_report.append(f"[回填统计] 共 {len(backfills)} 个")
+            full_report.extend(backfills)
 
-    # 写入完整报告（如果开启）
-    if WRITE_FULL_REPORT:
-        all_lines = []
-        all_lines.extend(full_report)
-        all_lines.append("\n=== 警告汇总 ===")
+        # 控制台打印（与 full_report 同格式）
+        print("=== 处理报告 ===")
+        for ln in lines:
+            print(ln)
+
+        if backfills:
+            print(f"[回填统计] 共 {len(backfills)} 个（仅显示前 5 个）")
+            preview = backfills[:5]
+            for blk in preview:
+                print(blk)
+        else:
+            print("[回填统计] 0 个")
+
+        # 警告汇总
+        print("\n=== 警告汇总 ===")
         if WARNINGS:
-            all_lines.extend(WARNINGS)
+            for w in WARNINGS:
+                print(w)
         else:
-            all_lines.append("无警告")
-        path = _maybe_write_full_report(all_lines, OUTPUT_DIR)
-        if path:
-            print(f"\n[已写入完整报告] {path}")
-        else:
-            print("\n[写入失败] 未生成完整报告文件")
+            print("无警告")
 
-    # 输出 JSON：由开关控制路径
-    out_path = INPUT_JSON if REPLACE_SOURCE else os.path.join(OUTPUT_DIR, os.path.basename(INPUT_JSON))
-    dump_json(doc, out_path)
-    print(f"\n已写入：{out_path}")
+        # 写入完整报告（如果开启） —— 一文件一报告
+        if WRITE_FULL_REPORT:
+            all_lines = []
+            all_lines.extend(full_report)
+            all_lines.append("\n=== 警告汇总 ===")
+            if WARNINGS:
+                all_lines.extend(WARNINGS)
+            else:
+                all_lines.append("无警告")
+            path = _maybe_write_full_report(all_lines, OUTPUT_DIR)
+            if path:
+                print(f"\n[已写入完整报告] {path}")
+            else:
+                print("\n[写入失败] 未生成完整报告文件")
+
+        # 输出 JSON：由开关控制路径（对每个输入分别落盘）
+        out_path = in_path if REPLACE_SOURCE else os.path.join(OUTPUT_DIR, os.path.basename(in_path))
+        dump_json(doc, out_path)
+        print(f"\n已写入：{out_path}")
+
+    print("\n[完成] 所有文件已处理。")
 
 if __name__ == "__main__":
     main()

@@ -28,7 +28,7 @@ from pathlib import Path
 # ======================================================================
 
 # ---- 单文件模式（当 ENABLE_DIR_TRAVERSAL=False 时生效，保持原逻辑）----
-INPUT_PATH = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_ZhenXiang\GE_ZhenXiang_BD.json"
+INPUT_PATH = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_RenSheng\GE_RenSheng_BD.json"
 
 # ---- 目录遍历模式（当 ENABLE_DIR_TRAVERSAL=True 时生效）----
 # 开关：True=只遍历目录；False=只处理单文件
@@ -36,7 +36,7 @@ ENABLE_DIR_TRAVERSAL: bool = False
 
 # 可配置多个根目录；会递归子目录
 SCAN_DIRS: List[str] = [
-    r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\0_Effect\CD",
+    r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng",
 ]
 
 # 仅处理文件名以这些前缀开头的 .json；例如 ("GE",) 或 ("GE","JH")

@@ -9,18 +9,17 @@ from datetime import datetime
 EXE = Path(r"D:\Unreal_tools\UAssetGUI.exe")  # UAssetGUI 可执行文件
 
 # "all"全文件夹还原 or "single"单个文件还原
-MODE = "single"
-SKIP_POLICY = "mtime"            # "none" 全部重建；"exists" 目标存在即跳过；"mtime" JSON 更新才重建
+MODE = "all"
+SKIP_POLICY = "none"            # "none" 全部重建；"exists" 目标存在即跳过；"mtime" JSON 更新才重建
 
 # 主文件夹路径
-ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH")
+ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH\Tables")
 # Single文件路径
 SINGLE_JSON = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Tables\Buffs.json")
 
 SUB_ENABLED = False  # 是否启用副文件夹遍历
 SUB_DIRS = [
-    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH"),
-    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH"),
+    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Tables"),
 ]
 
 USE_OUTDIR = False  # False=就地输出；True=镜像输出到 OUT_ROOT

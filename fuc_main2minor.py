@@ -33,7 +33,6 @@ SEARCH_DIRS = [
     r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Skills",
     r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Core",
     r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH",
-    r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Skills",
 ]
 FILENAME_PREFIXES = ["GE"]     # 扫描文件名前缀（如 "GE*.json"）
 FILE_EXT = ".json"             # 文件扩展名筛选

@@ -86,11 +86,11 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟A␟t␟t␟r␟i␟b␟u␟t␟e␟T␟y␟p␟e␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 2547,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": 2547,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2529
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 2965,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": 2965,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2943
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -100,10 +100,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟A␟t␟t␟r␟i␟b␟u␟t␟e␟T␟y␟p␟e␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": 2547,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2529
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": 2965,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2943
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -114,9 +114,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2529
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2943
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -128,8 +128,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 1746,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 1746
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 2032,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2032
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -142,7 +142,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟AttributeType␟␟GameplayAttribute␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 1746
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 2032
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -236,10 +236,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟G␟r␟i␟d␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 54,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 54,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 54,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 54
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 64,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 64,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 64,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 64
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -248,9 +248,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟G␟r␟i␟d␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 54,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 54,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 54
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 64,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 64,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 64
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -260,8 +260,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 54,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 54
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 64,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 64
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -272,7 +272,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 54
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": 64
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟RangeTargetType␟ETeamTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -386,11 +386,11 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟u␟l␟t␟i␟p␟l␟i␟e␟r␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟L␟i␟m␟i␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 378,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 378,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 378,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 198,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 369
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 442,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 442,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 442,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 231,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 431
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -400,10 +400,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟u␟l␟t␟i␟p␟l␟i␟e␟r␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟L␟i␟m␟i␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 378,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 378,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 198,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 369
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 442,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 442,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 231,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 431
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -414,9 +414,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟L␟i␟m␟i␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 378,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 198,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 369
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 442,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 231,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 431
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -428,8 +428,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 198,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 369
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": 231,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 431
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Multiplier␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -442,7 +442,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attr␟␟GameplayAttribute␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 198
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": 231
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackLimit␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -482,7 +482,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 2438,
@@ -491,7 +492,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 172,
@@ -500,7 +502,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -509,16 +512,18 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 13779,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 10971,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 774
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 15892,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 12740,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 920,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -526,8 +531,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 10971,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 774
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 12740,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 920,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -536,7 +542,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 774
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 920,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -545,16 +552,28 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
+      },
+      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": {
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 1,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 1,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 1,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": 0,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
       }
     },
     "order": [
-      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟",
-      "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟",
-      "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟",
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟"
     ]
@@ -582,7 +601,7 @@
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MaxPercent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
@@ -632,15 +651,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 90,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 90
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 105,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 105
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 90
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 105
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -694,8 +713,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟T␟y␟p␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 144,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RangeType␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 168,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RangeType␟␟␟␟": 32
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -709,7 +728,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟T␟y␟p␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 32
       }
     },
     "order": [
@@ -736,7 +755,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -766,7 +785,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 3816
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 4379
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -796,7 +815,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟b␟i␟l␟i␟t␟y␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 32
       },
       "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1034,15 +1053,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟i␟n␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 11538,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 2934,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 747,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 333,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 72,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 13304,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 3403,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 872,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 391,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 83,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 27,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 31,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 10
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1056,14 +1075,14 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟i␟n␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 2934,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 747,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 333,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 72,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 3403,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 872,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 391,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 83,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 27,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 31,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 10
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1078,8 +1097,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟i␟n␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 738,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 171,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 861,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 203,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 0,
@@ -1122,7 +1141,7 @@
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 72,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 83,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟ETeamTargetType␟␟␟": 0,
@@ -1160,13 +1179,13 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟i␟n␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2196,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2196,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 216,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2577,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2577,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 252,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 18,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 21,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 0
       },
@@ -1203,7 +1222,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟i␟n␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 9,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 10,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
@@ -1308,9 +1327,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟C␟a␟l␟c␟S␟t␟a␟c␟k␟W␟i␟t␟h␟D␟i␟s␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 9,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 9,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 11,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 11,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": 11
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1318,8 +1337,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟C␟a␟l␟c␟S␟t␟a␟c␟k␟W␟i␟t␟h␟D␟i␟s␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 9,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 11,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": 11
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1328,7 +1347,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟C␟a␟l␟c␟S␟t␟a␟c␟k␟W␟i␟t␟h␟D␟i␟s␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": 11
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bCalcStackWithDist␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1366,7 +1385,7 @@
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
@@ -1426,15 +1445,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 31
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 126,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 126,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 147,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 147,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
@@ -1442,7 +1461,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 126,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 147,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 0
       },
@@ -1510,9 +1529,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 11484,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 11484,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 2484
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 13327,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 13327,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 2883
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1520,8 +1539,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 11484,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 2484
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 13327,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 2883
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1530,7 +1549,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 2484
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 2883
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1568,7 +1587,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟W␟e␟a␟p␟o␟n␟T␟y␟p␟e␟␟␟E␟W␟e␟a␟p␟o␟n␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟WeaponType␟EWeaponType␟␟␟": 423
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟WeaponType␟EWeaponType␟␟␟": 490
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟WeaponType␟EWeaponType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1649,10 +1668,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟s␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟a␟n␟g␟e␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 1323,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1305,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 1323,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 1526,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1506,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 1526,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 20
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1661,9 +1680,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟a␟n␟g␟e␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1305,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 1323,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 18
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1506,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 1526,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 20
       },
       "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1673,7 +1692,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 1305,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 1506,
         "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": {
@@ -1696,7 +1715,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 20
       }
     },
     "order": [
@@ -1739,15 +1758,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟I␟f␟_␟R␟e␟q␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟h␟e␟n␟_␟A␟c␟t␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟l␟s␟e␟_␟A␟c␟t␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Then_Act␟␟␟ObjectProperty␟": 9936,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Else_Act␟␟␟ObjectProperty␟": 2556
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Then_Act␟␟␟ObjectProperty␟": 11516,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Else_Act␟␟␟ObjectProperty␟": 2949
       },
       "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Then_Act␟␟␟ObjectProperty␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟I␟f␟_␟R␟e␟q␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟h␟e␟n␟_␟A␟c␟t␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟l␟s␟e␟_␟A␟c␟t␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟If_Req␟␟␟ObjectProperty␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Else_Act␟␟␟ObjectProperty␟": 2115
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Else_Act␟␟␟ObjectProperty␟": 2436
       },
       "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟Else_Act␟␟␟ObjectProperty␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟I␟f␟_␟R␟e␟q␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
@@ -1856,10 +1875,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2223,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2566,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 126,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 72,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 147,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 84,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟EEventTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
@@ -1870,9 +1889,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 36,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 126,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 72,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 44,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 147,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 84,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟EEventTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": {
@@ -1898,7 +1917,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 72,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 84,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟EEventTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": {
@@ -1922,7 +1941,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 108,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 124,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MinStackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟LevelCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
@@ -1989,9 +2008,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟Q␟u␟e␟r␟y␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟e␟m␟o␟v␟e␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 495,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 495,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": 216
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 573,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 573,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": 253
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -1999,8 +2018,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟Q␟u␟e␟r␟y␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟e␟m␟o␟v␟e␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 495,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": 216
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 573,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": 253
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2009,7 +2028,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟e␟m␟o␟v␟e␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": 216
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": 253
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟RemoveCount␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2059,7 +2078,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟a␟n␟c␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟x␟e␟c␟u␟t␟i␟o␟n␟P␟h␟a␟s␟e␟s␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟L␟i␟m␟i␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExecutionPhases␟␟␟ObjectProperty␟": 1008,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExecutionPhases␟␟␟ObjectProperty␟": 1178,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟MaxLimit␟␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExecutionPhases␟␟␟ObjectProperty␟": {
@@ -2074,7 +2093,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟x␟e␟c␟u␟t␟i␟o␟n␟P␟h␟a␟s␟e␟s␟␟␟␟␟␟␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟L␟i␟m␟i␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Chance␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExecutionPhases␟␟␟ObjectProperty␟": 27
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExecutionPhases␟␟␟ObjectProperty␟": 32
       }
     },
     "order": [
@@ -2095,7 +2114,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 1578,
@@ -2104,7 +2124,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 124,
@@ -2113,7 +2134,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2122,16 +2144,18 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 13041,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 7101,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 558
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 15194,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 8275,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 651,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2139,8 +2163,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 7101,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 558
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 8275,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 651,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2149,7 +2174,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 558
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 651,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2158,16 +2184,28 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
+      },
+      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": {
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 4,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 4,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 4,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": 0,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
+        "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟": 0,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0
       }
     },
     "order": [
-      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟",
-      "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟",
-      "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟",
+      "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟",
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟CheckType␟EGEExtendReq_AttrCheckType␟␟␟",
       "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟E␟G␟E␟E␟x␟t␟e␟n␟d␟R␟e␟q␟_␟A␟t␟t␟r␟C␟h␟e␟c␟k␟T␟y␟p␟e␟␟␟␟␟␟"
     ]
@@ -2267,11 +2305,11 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟O␟t␟h␟e␟r␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟O␟t␟h␟e␟r␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟U␟s␟e␟O␟t␟h␟e␟r␟G␟E␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2281,10 +2319,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟O␟t␟h␟e␟r␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟U␟s␟e␟O␟t␟h␟e␟r␟G␟E␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2295,9 +2333,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟U␟s␟e␟O␟t␟h␟e␟r␟G␟E␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2309,8 +2347,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2565,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 2928,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2323,7 +2361,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟OtherBuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseOtherGELevel␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2381,7 +2419,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟D␟T␟y␟p␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 4635,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 5370,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": {
@@ -2395,8 +2433,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟D␟T␟y␟p␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 21,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 21
       }
     },
     "order": [
@@ -2503,11 +2541,11 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 1269,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1260,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 630,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 9,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 1457,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1447,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 712,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 10,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 10
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2517,10 +2555,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1260,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 630,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 9,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 1447,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 712,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 10,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 10
       },
       "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2531,7 +2569,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 630,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 712,
         "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffId␟␟␟IntProperty␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 0
       },
@@ -2559,7 +2597,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟BuffIds␟␟␟IntProperty␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": 10
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟StackCount␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2633,9 +2671,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 1314,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 1314,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 918
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 1535,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 1535,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1071
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2643,8 +2681,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 1314,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 918
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 1535,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1071
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2653,7 +2691,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 918
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1071
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2763,11 +2801,11 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟G␟r␟i␟d␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟N␟u␟m␟b␟e␟r␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 189
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 221
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2777,10 +2815,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟N␟u␟m␟b␟e␟r␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 189
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 221
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2791,9 +2829,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟N␟u␟m␟b␟e␟r␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 189
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 221
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2805,8 +2843,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 288,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 189
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 335,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 221
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2819,7 +2857,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 189
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": 221
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Number␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2893,9 +2931,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟b␟i␟l␟i␟t␟y␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2142,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 2142,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 693
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2489,
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 2489,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 802
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2903,8 +2941,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟b␟i␟l␟i␟t␟y␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 2142,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 693
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 2489,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 802
       },
       "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2913,7 +2951,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 693
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 802
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -2963,7 +3001,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2457,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2839,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
@@ -2977,8 +3015,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 936,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 936
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 1100,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 1100
       }
     },
     "order": [
@@ -3053,10 +3091,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 27,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 27,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 27,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 31,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 31,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 31,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 31
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3065,9 +3103,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 27,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 27,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 31,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 31,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 31
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3077,8 +3115,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 27,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 31,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 31
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3089,7 +3127,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 27
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 31
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3131,7 +3169,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 18
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3209,10 +3247,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟B␟u␟f␟f␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟Q␟u␟e␟r␟y␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟O␟t␟h␟e␟r␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 22,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3221,9 +3259,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟Q␟u␟e␟r␟y␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟O␟t␟h␟e␟r␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 22,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3233,8 +3271,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟O␟t␟h␟e␟r␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟QueryTags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3245,7 +3283,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟OtherEventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3307,15 +3345,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 63,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 63
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 74,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 74
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 63
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 74
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3421,11 +3459,11 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟G␟r␟i␟d␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 2853,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2853,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 2835,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 2700,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 117
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 3245,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 3245,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 3224,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 3067,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 136
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3435,10 +3473,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 2853,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 2835,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 2700,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 117
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 3245,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 3224,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 3067,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 136
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3449,9 +3487,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 2835,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 2700,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 117
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": 3224,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 3067,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 136
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟GridRange␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3463,8 +3501,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 2682,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 117
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": 3046,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Stack␟␟␟␟": 136
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Stack␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3523,7 +3561,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 9
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 11
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3573,15 +3611,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟p␟e␟c␟i␟a␟l␟I␟t␟e␟m␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟N␟e␟e␟d␟N␟u␟m␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SpecialItemId␟␟␟␟": 216,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟NeedNum␟␟␟␟": 126
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SpecialItemId␟␟␟␟": 259,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟NeedNum␟␟␟␟": 150
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SpecialItemId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟p␟e␟c␟i␟a␟l␟I␟t␟e␟m␟I␟d␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟N␟e␟e␟d␟N␟u␟m␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟NeedNum␟␟␟␟": 126
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟NeedNum␟␟␟␟": 150
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟NeedNum␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3615,7 +3653,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 45
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 52
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3645,7 +3683,7 @@
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟p␟p␟l␟y␟P␟e␟r␟S␟t␟a␟c␟k␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟ApplyPerStack␟␟␟␟": 1377
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟ApplyPerStack␟␟␟␟": 1608
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟ApplyPerStack␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
@@ -3703,9 +3741,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 1755,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 1755,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1224
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 2057,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 2057,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1434
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3713,8 +3751,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 1755,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1224
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 2057,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1434
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3723,7 +3761,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟M␟u␟l␟t␟i␟p␟y␟D␟a␟m␟a␟g␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Attribute␟␟GameplayAttribute␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1224
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": 1434
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bMultipyDamage␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3773,15 +3811,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟p␟e␟c␟i␟a␟l␟W␟o␟r␟d␟T␟y␟p␟e␟␟␟E␟S␟p␟e␟c␟i␟a␟l␟W␟o␟r␟d␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 225,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟SpecialWordType␟ESpecialWordType␟␟␟": 225
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 261,
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟SpecialWordType␟ESpecialWordType␟␟␟": 261
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟p␟e␟c␟i␟a␟l␟W␟o␟r␟d␟T␟y␟p␟e␟␟␟E␟S␟p␟e␟c␟i␟a␟l␟W␟o␟r␟d␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟SpecialWordType␟ESpecialWordType␟␟␟": 225
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟SpecialWordType␟ESpecialWordType␟␟␟": 261
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟SpecialWordType␟ESpecialWordType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3815,7 +3853,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟a␟g␟s␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟C␟o␟n␟t␟a␟i␟n␟e␟r␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 162
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": 189
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟Tags␟␟GameplayTagContainer␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -3873,7 +3911,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 369,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 417,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": {
@@ -3888,7 +3926,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 9
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Range␟␟␟␟": 10
       }
     },
     "order": [
@@ -3927,15 +3965,15 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟I␟n␟c␟l␟u␟d␟e␟T␟a␟g␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟x␟c␟l␟u␟d␟e␟B␟u␟f␟f␟I␟d␟s␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟IncludeTag␟␟GameplayTag␟␟": 279,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExcludeBuffIds␟␟␟IntProperty␟": 36
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟IncludeTag␟␟GameplayTag␟␟": 320,
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExcludeBuffIds␟␟␟IntProperty␟": 42
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟IncludeTag␟␟GameplayTag␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟I␟n␟c␟l␟u␟d␟e␟T␟a␟g␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟T␟a␟g␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟A␟r␟r␟a␟y␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟x␟c␟l␟u␟d␟e␟B␟u␟f␟f␟I␟d␟s␟␟␟␟␟␟␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExcludeBuffIds␟␟␟IntProperty␟": 36
+        "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExcludeBuffIds␟␟␟IntProperty␟": 42
       },
       "UAssetAPI.PropertyTypes.Objects.ArrayPropertyData, UAssetAPI␟ExcludeBuffIds␟␟␟IntProperty␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4137,14 +4175,14 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟U␟s␟e␟R␟a␟n␟d␟o␟m␟S␟t␟a␟c␟k␟C␟o␟u␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟U␟s␟e␟C␟u␟r␟r␟e␟n␟t␟G␟E␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 39713,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 39704,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 16700,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 4365,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 531,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 3582,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 477,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 495
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 46040,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 46029,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 19299,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 5116,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 618,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 4181,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 572,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 591
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4157,13 +4195,13 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟U␟s␟e␟C␟u␟r␟r␟e␟n␟t␟G␟E␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 39740,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 16736,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 4365,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 531,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 3582,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 477,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 495
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 46071,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 19341,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 5116,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 618,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 4181,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 572,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 591
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4177,12 +4215,12 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟L␟e␟v␟e␟l␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 16736,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 4365,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 531,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 3582,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 477,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 495
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 19341,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 5116,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 618,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 4181,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 572,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 591
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4197,9 +4235,9 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 1674,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 1975,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 1458,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 1718,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0
       },
@@ -4235,10 +4273,10 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 18,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 21,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 22,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 90,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 107,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": {
@@ -4255,7 +4293,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 3582,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 4181,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0
@@ -4273,8 +4311,8 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 27,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 63,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 33,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 73,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Level␟␟␟␟": 0
@@ -4292,10 +4330,10 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟BuffId␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 81,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 27,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟StackCount␟␟␟␟": 95,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MaxStackCount␟␟␟␟": 33,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGEStackCount␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 18,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseRandomStackCount␟␟␟␟": 22,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bUseCurrentGELevel␟␟␟␟": 0
       }
     },
@@ -4335,7 +4373,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟b␟i␟l␟i␟t␟y␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 1656
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 1931
       },
       "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4365,7 +4403,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟k␟i␟l␟l␟I␟d␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 225
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": 262
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟SkillId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4423,9 +4461,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟b␟i␟l␟i␟t␟y␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟F␟i␟g␟h␟t␟A␟b␟i␟l␟i␟t␟y␟P␟a␟w␟n␟C␟l␟a␟s␟s␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4433,8 +4471,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟b␟i␟l␟i␟t␟y␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟F␟i␟g␟h␟t␟A␟b␟i␟l␟i␟t␟y␟P␟a␟w␟n␟C␟l␟a␟s␟s␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": 22,
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟Ability␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4443,7 +4481,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟O␟b␟j␟e␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟F␟i␟g␟h␟t␟A␟b␟i␟l␟i␟t␟y␟P␟a␟w␟n␟C␟l␟a␟s␟s␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": 22
       },
       "UAssetAPI.PropertyTypes.Objects.ObjectPropertyData, UAssetAPI␟FightAbilityPawnClass␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4529,10 +4567,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟h␟a␟p␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 171,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 171,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": 171,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 144
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 201,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 201,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": 201,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 169
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4541,9 +4579,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟R␟a␟n␟g␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟h␟a␟p␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 171,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": 171,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 144
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 201,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": 201,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 169
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4553,8 +4591,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟S␟h␟a␟p␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": 171,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 144
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": 201,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 169
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Range␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4565,7 +4603,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟Percent␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 144
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": 169
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟Shape␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4655,10 +4693,10 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟B␟o␟o␟l␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟b␟P␟e␟r␟c␟e␟n␟t␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟A␟t␟t␟r␟i␟b␟u␟t␟e␟T␟y␟p␟e␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 21,
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 21,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 21,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4667,9 +4705,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟S␟t␟r␟u␟c␟t␟s␟.␟S␟t␟r␟u␟c␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟a␟x␟A␟t␟t␟r␟i␟b␟u␟t␟e␟T␟y␟p␟e␟␟␟␟␟G␟a␟m␟e␟p␟l␟a␟y␟A␟t␟t␟r␟i␟b␟u␟t␟e␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 18,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 21,
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 21,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4679,8 +4717,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟F␟l␟o␟a␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟A␟t␟t␟r␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 18,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": 21,
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI␟MaxAttributeType␟␟GameplayAttribute␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4691,7 +4729,7 @@
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟AttrCheckType␟EGEExtendReq_AttrCheckType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI␟bPercent␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 18
+        "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": 21
       },
       "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI␟AttrValue␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4733,7 +4771,7 @@
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟M␟e␟r␟i␟d␟i␟a␟n␟I␟d␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MeridianId␟␟␟␟": 108
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MeridianId␟␟␟␟": 126
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟MeridianId␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4799,9 +4837,9 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟E␟v␟e␟n␟t␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟D␟T␟y␟p␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟a␟n␟g␟e␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 4113,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 4113,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 4113
+        "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 4767,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 4767,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 4767
       },
       "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4809,8 +4847,8 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟D␟T␟y␟p␟e␟␟␟␟␟␟␟␟": 0,
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟a␟n␟g␟e␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 4113,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 4113
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": 4767,
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 4767
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟CDType␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
@@ -4819,7 +4857,7 @@
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟I␟n␟t␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟C␟h␟a␟n␟g␟e␟V␟a␟l␟u␟e␟␟␟␟␟␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟TeamTargetType␟ETeamTargetType␟␟␟": 0,
         "UAssetAPI.PropertyTypes.Objects.EnumPropertyData, UAssetAPI␟EventTargetType␟EEventTargetType␟␟␟": 0,
-        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 4113
+        "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": 4767
       },
       "UAssetAPI.PropertyTypes.Objects.IntPropertyData, UAssetAPI␟ChangeValue␟␟␟␟": {
         "U␟A␟s␟s␟e␟t␟A␟P␟I␟.␟P␟r␟o␟p␟e␟r␟t␟y␟T␟y␟p␟e␟s␟.␟O␟b␟j␟e␟c␟t␟s␟.␟E␟n␟u␟m␟P␟r␟o␟p␟e␟r␟t␟y␟D␟a␟t␟a␟,␟ ␟U␟A␟s␟s␟e␟t␟A␟P␟I␟␟␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟E␟T␟e␟a␟m␟T␟a␟r␟g␟e␟t␟T␟y␟p␟e␟␟␟␟␟␟": 0,
