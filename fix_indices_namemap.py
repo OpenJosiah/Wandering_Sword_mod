@@ -28,7 +28,7 @@ from pathlib import Path
 # ======================================================================
 
 # ---- 单文件模式（当 ENABLE_DIR_TRAVERSAL=False 时生效，保持原逻辑）----
-INPUT_PATH = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_RenSheng\GE_RenSheng_BD.json"
+INPUT_PATH = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_D_ZhiRen\JH_D_ZhiRen3\GE_ZhiRen3_BD.json"
 
 # ---- 目录遍历模式（当 ENABLE_DIR_TRAVERSAL=True 时生效）----
 # 开关：True=只遍历目录；False=只处理单文件
@@ -124,29 +124,26 @@ def base_from_object_name(obj_name: str) -> str:
 
 def dedupe_export_object_names(exports: List[Dict[str, Any]]) -> List[Tuple[int, str, str]]:
     """
-    若某“基名”组内存在完全相同的 ObjectName，统一重命名为 base_0..n-1；
+    将每个“基名”分组无条件标准化为 base_0..n-1；
     返回改名记录 (index, old, new)（index 为切片 exports 的相对索引）。
     """
     groups: Dict[str, List[int]] = {}
-    fullnames_by_base: Dict[str, set] = {}
     for idx, exp in enumerate(exports):
         name = exp.get("ObjectName")
         if not isinstance(name, str) or not name:
             continue
         base = base_from_object_name(name)
         groups.setdefault(base, []).append(idx)
-        fullnames_by_base.setdefault(base, set()).add(name)
 
     changes: List[Tuple[int, str, str]] = []
     for base, idx_list in groups.items():
-        if len(fullnames_by_base[base]) < len(idx_list):
-            for order, idx in enumerate(idx_list):
-                exp = exports[idx]
-                old = exp.get("ObjectName")
-                new = f"{base}_{order}"
-                if old != new:
-                    exp["ObjectName"] = new
-                    changes.append((idx, old, new))
+        for order, idx in enumerate(idx_list):
+            exp = exports[idx]
+            old = exp.get("ObjectName")
+            new = f"{base}_{order}"
+            if old != new:
+                exp["ObjectName"] = new
+                changes.append((idx, old, new))
     return changes
 
 # ======================================================================

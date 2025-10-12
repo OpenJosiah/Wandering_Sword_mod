@@ -23,7 +23,7 @@ from typing import Any, Dict, List, Set, DefaultDict, Tuple, Optional
 from collections import defaultdict
 
 # ======== 路径与输出策略 ========
-INPUT_JSON = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_A_ZhongSheng\JH_A_RenSheng\GE_RenSheng_BD.json"
+INPUT_JSON = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_D_ZhiRen\JH_D_ZhiRen3\GE_ZhiRen3_BD.json"
 REPLACE_SOURCE = True   # True: 覆盖源文件；False: 写到 OUTPUT_DIR
 OUTPUT_DIR = r"D:\\Python\\pythonProject1\\Files\\yijian_mod_creat\\outputfiles"
 # ===============================

@@ -25,9 +25,9 @@ OUTPUT_TO_FIXED_DIR = True  # True: 输出到指定路径；False: 输出到程�
 
 # ==== 采集范围（按遍历顺序；None 表示不限制；结束ID不包含在结果中）====
 BUFF_ID_START: Optional[str] = None
-BUFF_ID_END:   Optional[str] = "9990"  # 兼容旧逻辑
+BUFF_ID_END:   Optional[str] = None  # 兼容旧逻辑
 SKILL_ID_START: Optional[str] = None
-SKILL_ID_END:   Optional[str] = "999"  # 兼容旧逻辑
+SKILL_ID_END:   Optional[str] = None  # 兼容旧逻辑
 
 def iter_nodes(obj: Any) -> Generator[Dict[str, Any], None, None]:
     if isinstance(obj, dict):

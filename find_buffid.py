@@ -11,8 +11,8 @@ from typing import Any, Iterable, List, Set, Dict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ========= 顶部配置（你主要改这里） =========
-TARGET_BUFF_ID: int = 100500          # 目标 buffid（命令行第1参可覆盖）
-TOP_N_PRINT: int = 3                # 控制台仅打印前 N 条（命令行第2参可覆盖）
+TARGET_BUFF_ID: int = 202572455         # 目标 buffid（命令行第1参可覆盖）
+TOP_N_PRINT: int = 11               # 控制台仅打印前 N 条（命令行第2参可覆盖）
 SAVE_OUTPUT: bool = False            # ←← 开关：是否把“全部命中列表”保存成 JSON 文件
 
 # 并行线程数（I/O 密集）
@@ -20,14 +20,11 @@ MAX_WORKERS = min(32, (os.cpu_count() or 4) * 2)
 
 # 搜索目录（递归）
 SEARCH_DIRS: List[Path] = [
-    Path(r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Skills"),
-    Path(r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Core"),
-    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH"),
-    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Skills"),
+    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills"),
 ]
 
 # 多前缀（例：["GE","BP"]）；留空 [] 表示不限前缀，匹配所有 .json
-FILENAME_PREFIXES: List[str] = ["GE","GA"]
+FILENAME_PREFIXES: List[str] = []
 FILE_EXT = ".json"
 
 # 输出目录（仅当 SAVE_OUTPUT=True 且有命中时才会写文件）

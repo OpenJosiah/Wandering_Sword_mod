@@ -90,7 +90,7 @@ def report_for_namemap(value, path):
         print(f"[提示] NameMap 类型为 {type(value).__name__}，未定义重复检查。")
 
 def main():
-    default_path = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Tables\Buffs.json"
+    default_path = r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_XTZH\Wandering_Sword\Content\JH\Skills\JH_N_XuanTaiZaoHua\GE_JH_N_XuanzDao.json"
     path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(default_path)
 
     if not path.exists():

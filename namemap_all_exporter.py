@@ -31,7 +31,7 @@ PREFIX_CASE_SENSITIVE = False   # True大小写敏感；False不敏感
 # 输出目录：False=脚本目录；True=使用自定义目录 OUTPUT_DIR
 USE_CUSTOM_OUTPUT_DIR = True
 OUTPUT_DIR = Path(r"D:\Python\pythonProject1\Files\yijian_mod_creat\outputfiles")
-OUTPUT_FILENAME = "namemap_all.txt"  # 统一输出到一个文件
+OUTPUT_FILENAME = "namemap_all_GA.txt"  # 统一输出到一个文件
 
 # 并行线程数（I/O密集，适当偏大）
 MAX_WORKERS = max(8, (os.cpu_count() or 8) * 4)

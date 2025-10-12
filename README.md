@@ -2,7 +2,7 @@
 程序说明：
 1. buff_skill_exporter：导出buffs和skills表
 2. buffs_skills_path：输出ID + 基础路径 + 完整路径_C
-3. delete_bakNjson：删除.bak和.json文件
+3. delete_bakNjson：删除.bak和.json文件，或者uasset/uexp文件
 4. fill_indices_export：修改JHEx、有引用功能的函数的索引
 5. find_buffid：全文件搜索你想要找的buffid的应用所在文件
 6. fix_indices_namemap：自动修正Export内部函数索引，填充其缺失的Import，修正函数名顺序，填充缺失的NameMap
@@ -14,3 +14,5 @@
 12. search_funcNtagNtrigger：全文件搜索游戏中存在的函数、Tag、触发器
 13. skills_desc_exporter：导出skills表（带描述）
 14. uasset2json：uasset文件转json
+15. search_GA_GE_path_C：搜索指定ID，输出它的路径_C
+16. search_Quest：输出任务ID，输出对应全部代码段

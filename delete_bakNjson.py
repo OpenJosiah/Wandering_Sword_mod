@@ -9,17 +9,18 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ===== 主根目录 =====
-ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_1\Wandering_Sword\Content\JH\Skills")
+ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH\Tables")
 
 # 副文件夹支持（True 启用，False 关闭）
 SUB_ENABLED = True
 SUB_DIRS = [
-    Path(r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Core"),
-    Path(r"D:\Unreal_tools\original_files\Wandering_Sword\Content\JH\Skills"),
+    Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH\Maps"),
 ]
 
 # 始终删除 .bak；是否删除 .json
 DELETE_JSON = True
+# 是否删除 .uasset 与 .uexp 文件
+DELETE_UASSET_AND_UEXP = False
 
 # 可选：演练模式（不真正删除）
 DRY_RUN = False
@@ -29,7 +30,7 @@ PARALLEL_ENABLED = True                # True 并行；False 顺序
 MAX_WORKERS = min(8, (os.cpu_count() or 4) * 2)  # 并发上限（可按机器调）
 
 def should_delete(p: Path) -> bool:
-    """是否需要删除该文件：.bak 一律删除；.json 取决于 DELETE_JSON。"""
+    """是否需要删除该文件：.bak 一律删除；.json 取决于 DELETE_JSON；.uasset/.uexp 取决于 DELETE_UASSET_AND_UEXP。"""
     try:
         if not p.is_file():
             return False
@@ -38,6 +39,8 @@ def should_delete(p: Path) -> bool:
             return True
         if ext == ".json":
             return DELETE_JSON
+        if ext in (".uasset", ".uexp"):
+            return DELETE_UASSET_AND_UEXP
         return False
     except Exception:
         return False

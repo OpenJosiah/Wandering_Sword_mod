@@ -13,13 +13,13 @@ from typing import Any, List, Tuple, Optional, Iterable, Set, Dict
 MODE_OVERRIDE: Optional[int] = 0
 
 # —— Buffs：起止ID（按出现顺序，含终点），或离散清单（二者选其一，清单优先）——
-BUFFS_START_ID: Optional[int] = 2592910    # 例：2025910；None 表示从文件开头
-BUFFS_END_ID:   Optional[int] = 2592944    # 例：2025966；None 表示到文件末尾
+BUFFS_START_ID: Optional[int] = 2593060    # 例：2025910；None 表示从文件开头
+BUFFS_END_ID:   Optional[int] = 2593066    # 例：2025966；None 表示到文件末尾
 BUFFS_ID_LIST:  Optional[str] = None    # 逗号分隔字符串，如 "2025910,2025911,2025966"；设定后优先生效
 
 # —— Skills：起止ID（按出现顺序，含终点），或离散清单（二者选其一，清单优先）——
-SKILLS_START_ID: Optional[int] = 2592901   # 例：999
-SKILLS_END_ID:   Optional[int] = 2592904
+SKILLS_START_ID: Optional[int] = 0   # 例：999
+SKILLS_END_ID:   Optional[int] = 0
 SKILLS_ID_LIST:  Optional[str] = None   # 如 "999,1001,1200"
 
 # —— 输入控制——

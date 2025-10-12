@@ -10,7 +10,7 @@ EXE = Path(r"D:\Unreal_tools\UAssetGUI.exe")  # UAssetGUI 可执行文件
 
 # "all"全文件夹还原 or "single"单个文件还原
 MODE = "all"
-SKIP_POLICY = "none"            # "none" 全部重建；"exists" 目标存在即跳过；"mtime" JSON 更新才重建
+SKIP_POLICY = "mtime"            # "none" 全部重建；"exists" 目标存在即跳过；"mtime" JSON 更新才重建
 
 # 主文件夹路径
 ROOT_DIR = Path(r"D:\Unreal_tools\yijian\Wandering_Sword-WindowsNoEditor_2\Wandering_Sword\Content\JH\Tables")
